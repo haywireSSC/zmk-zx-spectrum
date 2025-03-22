@@ -18,5 +18,5 @@
 #     artifact-name: corne_left_with_studio
 #
 include:
-    - board: my_keyboard
+    - board: zxspectrum
       shield: my_keyboard
