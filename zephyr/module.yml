@@ -1,3 +1,5 @@
+name: zmk-keyboard-zxspectrum
+
 build:
   settings:
     board_root: .
